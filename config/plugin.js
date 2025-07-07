@@ -10,9 +10,9 @@ module.exports = ({ env }) => ({
           apiKey: env('SENDGRID_API_KEY'),
         },
         settings: {
-          defaultFrom: 'toanld@smartosc.com',
-          defaultReplyTo: 'toanld@smartosc.com',
-          testAddress: 'toanld@smartosc.com',
+          defaultFrom: 'toanld@codteam.net',
+          defaultReplyTo: 'toanld@codteam.net',
+          testAddress: 'toanld@codteam.net',
         },
       },
     },
